@@ -1,0 +1,9 @@
+VERY IMPORTANT MESSAGE!
+
+If gun controlling scripts are not working properly check if there is a hole in numeration!
+
+There shouldn't be any hole in numeration AND each gun have to have individual ID.
+
+PRO TIP:
+More important weapons should have smaller numbers.
+After chanigng weapons alignment affects "CLASS LOADOUT" in PassDataScript so you should check innitial data for it!

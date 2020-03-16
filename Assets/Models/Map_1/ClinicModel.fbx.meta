@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 646197156d7718f4cb68963d726a1548
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Canteen_StaticObjects
+    100002: CANTENN_String
+    100004: //RootNode
+    100006: Collider
+    100008: ElevatorStatic
+    100010: F0
+    100012: F1
+    100014: F2
+    100016: F3
+    100018: F4
+    100020: Floor_1
+    100022: Floor_2
+    100024: Floor_3
+    100026: Floor_4
+    100028: FloorOf_0
+    100030: FontainBase
+    100032: Mesh
+    100034: MeshCollider
+    100036: Stairs_1
+    100038: Stairs_2F
+    100040: Stairs_3F
+    100042: WallsOf_0
+    400000: Canteen_StaticObjects
+    400002: CANTENN_String
+    400004: //RootNode
+    400006: Collider
+    400008: ElevatorStatic
+    400010: F0
+    400012: F1
+    400014: F2
+    400016: F3
+    400018: F4
+    400020: Floor_1
+    400022: Floor_2
+    400024: Floor_3
+    400026: Floor_4
+    400028: FloorOf_0
+    400030: FontainBase
+    400032: Mesh
+    400034: MeshCollider
+    400036: Stairs_1
+    400038: Stairs_2F
+    400040: Stairs_3F
+    400042: WallsOf_0
+    2300000: Canteen_StaticObjects
+    2300002: CANTENN_String
+    2300004: Collider
+    2300006: ElevatorStatic
+    2300008: Floor_1
+    2300010: Floor_2
+    2300012: Floor_3
+    2300014: Floor_4
+    2300016: FloorOf_0
+    2300018: FontainBase
+    2300020: Stairs_1
+    2300022: Stairs_2F
+    2300024: Stairs_3F
+    2300026: WallsOf_0
+    3300000: Canteen_StaticObjects
+    3300002: CANTENN_String
+    3300004: Collider
+    3300006: ElevatorStatic
+    3300008: Floor_1
+    3300010: Floor_2
+    3300012: Floor_3
+    3300014: Floor_4
+    3300016: FloorOf_0
+    3300018: FontainBase
+    3300020: Stairs_1
+    3300022: Stairs_2F
+    3300024: Stairs_3F
+    3300026: WallsOf_0
+    4300000: Collider
+    4300002: Floor_4
+    4300004: Floor_3
+    4300006: Stairs_3F
+    4300008: Floor_2
+    4300010: Stairs_2F
+    4300012: Floor_1
+    4300014: Canteen_StaticObjects
+    4300016: CANTENN_String
+    4300018: Stairs_1
+    4300020: WallsOf_0
+    4300022: FontainBase
+    4300024: FloorOf_0
+    4300026: ElevatorStatic
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 02602a52074d5204993e52149529f541, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
