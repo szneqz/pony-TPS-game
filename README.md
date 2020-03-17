@@ -18,7 +18,7 @@ The development started in Feb 2017 and ended in Jun 2018 due to lack of time an
 ![4](/screenshots/vLHjlvg.png)
 
 ## Download links for the game
-[x86 version](https://drive.google.com/open?id=1rTlywd5iCL6x_QpKw-_33vD3q05LKNC5)  
+[x86 version](https://drive.google.com/open?id=1rTlywd5iCL6x_QpKw-_33vD3q05LKNC5)\
 [x64 version](https://drive.google.com/open?id=1vshIP62Ifaj9oaPWp_fD12sVw5d2APbG)
 
 ## Additional information
